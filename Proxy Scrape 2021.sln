@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy Scrape 2021", "Proxy Scrape 2021\Proxy Scrape 2021.csproj", "{BAFFB729-B9E1-425A-B593-5464CC3F7EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFFB729-B9E1-425A-B593-5464CC3F7EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFFB729-B9E1-425A-B593-5464CC3F7EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFFB729-B9E1-425A-B593-5464CC3F7EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFFB729-B9E1-425A-B593-5464CC3F7EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EFDBAA4-10A0-4BFB-8638-24BB8DD80871}
+	EndGlobalSection
+EndGlobal
